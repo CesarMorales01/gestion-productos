@@ -1,0 +1,104 @@
+.fondoRojo{
+    background-color:#FF0000;
+}
+
+.fondoBlanco{
+    background-color:white;
+}
+.colorBlanco{
+    color:white;
+    font-size:0.9em;
+}
+
+.displayNone{
+    display:none;
+}
+
+.fondoBeige{
+    background-color:#f9f9c5;
+}
+
+.fuenteNavBar{
+    margin-left:1.3em; font-size:1em; background-color:#FF0000; color:white; cursor:pointer;
+}
+
+.cursorPointer{
+    cursor:pointer;
+}
+
+.centrarAuto{
+    margin: 0 auto;
+}
+
+.generalFontStyle{
+    font-size:1.1em;
+    text-align:center;
+    font-weight: bold;
+}
+
+.fontSizeNormal{
+    font-size:1.1em;
+}
+
+.margin5Left{
+    margin-left:0.5em;
+}
+
+.textAlignCenter{
+    text-align: center;
+}
+
+.fontStyleCarousel{
+    font-size:1.3em;
+    text-align:center;
+    color: black;
+}
+
+.imgCarouselBig{
+    width: 480px;
+    height: 500px;
+}
+
+.imgCarouselSm{
+    width: 350px;
+    height: 350px;
+}
+
+.tituloCategorias{
+    box-shadow: 0 0 25px hsla(0, 0%, 0%, 0.60); 
+    color:#FF0000;
+}
+
+.fontSizePreciosSuggested{
+    font-size:1.1em;
+    text-align:center;
+    color: black;
+}
+  
+  .card-flyer:hover{
+    background: #fff;
+    box-shadow: 0px 15px 26px rgba(0, 0, 0, 0.50);
+    -webkit-transition: all 0.1s ease-in;
+    -moz-transition: all 0.1s ease-in;
+    -ms-transition: all 0.1s ease-in;
+    -o-transition: all 0.1s ease-in;
+    transition: all 0.1s ease-in;
+    margin-top: 10px;
+  }
+
+  .fontSizeQuestions{
+    font-size:0.8em;
+    text-align:center;
+    color: black;
+}
+
+.divScroll {
+    overflow:scroll;
+    width: 300px;
+    height: 40px;
+    margin: 0 auto;
+    }
+
+
+
+
